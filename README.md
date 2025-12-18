@@ -6,7 +6,7 @@ My name is Eva, a 42 Madrid student! I'm currently on my learning computer scien
 :bowing_woman: I come from a 3D animation/film studies background<br>
 <br>
 
-## What I've learnt (for now...)
+## What I know (for now...)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
