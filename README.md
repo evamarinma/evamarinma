@@ -16,7 +16,21 @@ My name is Eva, a 42 Madrid student(emarin-m)! I'm currently on my learning comp
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 <br>
-### And I'm eager to learn much more in the future!
+## :brain: 42 Projects
+* :open_book: [Libft](https://github.com/evamarinma/libft)<br>
+  Manually recreating libc functions.
+  <br><br>
+* :printer: [Ft_printf](https://github.com/evamarinma/ft_printf)<br>
+  Coding my own version of printf - essential functionalities (cspdiuxX%).
+  <br><br>
+* :next_track_button: [Get_next_line](https://github.com/evamarinma/get_next_line)<br>
+  Returns a file line-by-line.
+  <br><br>
+* :bar_chart: [Push_swap](https://github.com/evamarinma/push_swap)<br>
+  An algorithm-based sorting program.
+  <br><br>
+
+## And I'm eager to learn much more in the future!
 
 [![evamarinma's GitHub stats](https://github-readme-stats.vercel.app/api?username=evamarinma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
