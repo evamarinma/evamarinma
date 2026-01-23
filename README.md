@@ -1,6 +1,6 @@
 ## Hello there! :relaxed:
 
-My name is Eva, a 42 Madrid student(emarin-m)! I'm currently on my learning computer science journey, as I come from a 3D animation background.<br>
+My name is Eva, a 42 Madrid student (emarin-m)! I'm currently on my learning computer science journey, as I come from a 3D animation background.<br>
 <br>
 :brain: Currently on my learning computer science journey<br>
 :bowing_woman: I come from a 3D animation/film studies background<br>
