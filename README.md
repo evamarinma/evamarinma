@@ -35,3 +35,5 @@ An algorithm-based maze generator.
 
 ## And I'm eager to learn much more in the future!
 
+![Stats](./profile/stats.svg)
+
