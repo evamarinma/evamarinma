@@ -29,6 +29,9 @@ My name is Eva, a 42 Madrid student (emarin-m)! I'm currently on my learning com
 * :bar_chart: [Push_swap](https://github.com/evamarinma/push_swap)<br>
   An algorithm-based sorting program.
   <br><br>
+* :jigsaw: [A_maze_ing](https://github.com/evamarinma/push_swap)<br>
+An algorithm-based maze generator.
+<br><br>
 
 ## And I'm eager to learn much more in the future!
 
