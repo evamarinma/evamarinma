@@ -35,7 +35,3 @@ An algorithm-based maze generator.
 
 ## And I'm eager to learn much more in the future!
 
-[![evamarinma's GitHub stats](https://github-readme-stats.vercel.app/api?username=evamarinma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evamarinma&layout=donut)](https://github.com/evamarinma/github-readme-stats)
--->
